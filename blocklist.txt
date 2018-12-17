@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /robots.txt
+Disallow: /premium
+Disallow: /premium*/
+Disallow: /regionalized-fragments
+Disallow: /regionalized-fragments*/
+
+
+Sitemap: https://www.peoples.com/sitemap.xml
